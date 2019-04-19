@@ -1,7 +1,8 @@
 # 仿写U17
 ###效果图
-![Mou icon](https://github.com/mengzhihun6/JGCALayer/blob/master/JGCALayer.gif)
 
+![](./Images/U17.gif)
+![](./Images/1.png)
 ![](./Images/1.png)
 ![](./Images/2.png)
 ![](./Images/3.png)
